@@ -1,5 +1,5 @@
 ---
-title: Yet Another Sample Page
+title: Python-numpy
 published: true
 ---
 
